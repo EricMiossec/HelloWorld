@@ -12208,7 +12208,7 @@ Source: www.kingbright.com</description>
 <instance part="GND5" gate="1" x="162.56" y="-40.64"/>
 <instance part="GND6" gate="1" x="114.3" y="-25.4"/>
 <instance part="GND7" gate="1" x="25.4" y="55.88"/>
-<instance part="GND8" gate="1" x="-15.24" y="50.8"/>
+<instance part="GND8" gate="1" x="-15.24" y="66.04"/>
 <instance part="GND2" gate="1" x="5.08" y="0" rot="R90"/>
 <instance part="GND9" gate="1" x="53.34" y="66.04" rot="R270"/>
 <instance part="+3V1" gate="G$1" x="30.48" y="68.58"/>
@@ -12239,19 +12239,13 @@ Source: www.kingbright.com</description>
 <instance part="R8" gate="G$1" x="157.48" y="2.54"/>
 <instance part="R9" gate="G$1" x="157.48" y="-5.08"/>
 <instance part="GND15" gate="1" x="167.64" y="0"/>
-<instance part="JP2" gate="G$1" x="2.54" y="68.58" rot="R270"/>
-<instance part="JP1" gate="G$1" x="-5.08" y="53.34" rot="R180"/>
+<instance part="JP2" gate="G$1" x="2.54" y="73.66" rot="R270"/>
+<instance part="JP1" gate="G$1" x="-5.08" y="68.58" rot="R180"/>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="4.3V" class="0">
-<segment>
-<label x="-17.78" y="60.96" size="1.778" layer="95"/>
-<pinref part="RJ12_CONN" gate="G$1" pin="4"/>
-<wire x1="2.54" y1="60.96" x2="-25.4" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="JP2" gate="G$1" pin="1"/>
-</segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="IN"/>
 <wire x1="-10.16" y1="35.56" x2="-2.54" y2="35.56" width="0.1524" layer="91"/>
@@ -12264,13 +12258,15 @@ Source: www.kingbright.com</description>
 <wire x1="-7.62" y1="25.4" x2="-10.16" y2="25.4" width="0.1524" layer="91"/>
 <label x="-7.62" y="25.4" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="JP2" gate="G$1" pin="1"/>
+<wire x1="2.54" y1="66.04" x2="2.54" y2="58.42" width="0.1524" layer="91"/>
+<pinref part="RJ12_CONN" gate="G$1" pin="3"/>
+<wire x1="2.54" y1="58.42" x2="-25.4" y2="58.42" width="0.1524" layer="91"/>
+<label x="-22.86" y="58.42" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="I2C_CLOCK" class="0">
-<segment>
-<wire x1="-25.4" y1="63.5" x2="-12.7" y2="63.5" width="0.1524" layer="91"/>
-<label x="-25.4" y="63.5" size="1.778" layer="95"/>
-<pinref part="RJ12_CONN" gate="G$1" pin="5"/>
-</segment>
 <segment>
 <pinref part="U1" gate="PORTB_L" pin="PB6"/>
 <wire x1="109.22" y1="40.64" x2="116.84" y2="40.64" width="0.1524" layer="91"/>
@@ -12281,13 +12277,13 @@ Source: www.kingbright.com</description>
 <wire x1="160.02" y1="50.8" x2="167.64" y2="50.8" width="0.1524" layer="91"/>
 <label x="165.1" y="50.8" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="RJ12_CONN" gate="G$1" pin="2"/>
+<wire x1="-25.4" y1="55.88" x2="-15.24" y2="55.88" width="0.1524" layer="91"/>
+<label x="-22.86" y="55.88" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="I2C_DATA" class="0">
-<segment>
-<wire x1="-25.4" y1="66.04" x2="-12.7" y2="66.04" width="0.1524" layer="91"/>
-<label x="-25.4" y="66.04" size="1.778" layer="95"/>
-<pinref part="RJ12_CONN" gate="G$1" pin="6"/>
-</segment>
 <segment>
 <pinref part="U1" gate="PORTB_L" pin="PB7"/>
 <wire x1="109.22" y1="38.1" x2="116.84" y2="38.1" width="0.1524" layer="91"/>
@@ -12298,16 +12294,23 @@ Source: www.kingbright.com</description>
 <wire x1="162.56" y1="58.42" x2="167.64" y2="58.42" width="0.1524" layer="91"/>
 <label x="165.1" y="58.42" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="RJ12_CONN" gate="G$1" pin="1"/>
+<wire x1="-25.4" y1="53.34" x2="-15.24" y2="53.34" width="0.1524" layer="91"/>
+<label x="-22.86" y="53.34" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<wire x1="-25.4" y1="53.34" x2="-15.24" y2="53.34" width="0.1524" layer="91"/>
-<label x="-17.78" y="53.34" size="1.778" layer="95"/>
-<pinref part="RJ12_CONN" gate="G$1" pin="1"/>
+<label x="-22.86" y="68.58" size="1.778" layer="95"/>
 <pinref part="GND8" gate="1" pin="GND"/>
-<wire x1="-15.24" y1="53.34" x2="-12.7" y2="53.34" width="0.1524" layer="91"/>
-<junction x="-15.24" y="53.34"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
+<wire x1="-15.24" y1="68.58" x2="-22.86" y2="68.58" width="0.1524" layer="91"/>
+<junction x="-15.24" y="68.58"/>
+<wire x1="-15.24" y1="68.58" x2="-12.7" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="RJ12_CONN" gate="G$1" pin="4"/>
+<wire x1="-25.4" y1="60.96" x2="-22.86" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="-22.86" y1="60.96" x2="-22.86" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="POWER" pin="VSS_4"/>
@@ -12602,9 +12605,9 @@ Source: www.kingbright.com</description>
 <wire x1="5.08" y1="40.64" x2="12.7" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="12.7" y1="40.64" x2="12.7" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="JP2" gate="G$1" pin="2"/>
-<wire x1="5.08" y1="60.96" x2="5.08" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="5.08" y1="58.42" x2="0" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="0" y1="58.42" x2="0" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="66.04" x2="5.08" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="45.72" x2="0" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="0" y1="45.72" x2="0" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="POWER" pin="VDD_4"/>
