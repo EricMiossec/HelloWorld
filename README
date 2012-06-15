@@ -1,0 +1,1 @@
+This is the repo for our NXT laser range finder. So far we have been unable to make it work with our current setup. Right now we are working on improving the PCB layout. We might also use this repo to make other NXT sensor, hence the generic "NXT-Sensor" repo name.
