@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC/halconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC/chconf.h
+END
+ch.ld
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC/ch.ld
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/PPC-SPC563-GCC/Makefile
+END

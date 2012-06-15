@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/USBv1
+END
+usb_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/USBv1/usb_lld.c
+END
+stm32_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/USBv1/stm32_usb.h
+END
+usb_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/USBv1/usb_lld.h
+END

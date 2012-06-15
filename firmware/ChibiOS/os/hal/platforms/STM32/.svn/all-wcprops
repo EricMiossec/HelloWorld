@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32
+END
+pwm_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/pwm_lld.c
+END
+ext_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/ext_lld.h
+END
+can_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/can_lld.h
+END
+pwm_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/pwm_lld.h
+END
+sdc_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/sdc_lld.c
+END
+uart_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/uart_lld.c
+END
+i2c_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/i2c_lld.c
+END
+sdc_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/sdc_lld.h
+END
+serial_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/serial_lld.c
+END
+icu_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/icu_lld.c
+END
+uart_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/uart_lld.h
+END
+i2c_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/i2c_lld.h
+END
+stm32.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/stm32.h
+END
+serial_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/serial_lld.h
+END
+icu_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/icu_lld.h
+END
+gpt_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/gpt_lld.c
+END
+spi_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/spi_lld.c
+END
+gpt_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/gpt_lld.h
+END
+ext_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/ext_lld.c
+END
+spi_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/spi_lld.h
+END
+can_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32/can_lld.c
+END

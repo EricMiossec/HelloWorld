@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW/halconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW/chconf.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/Win32-MinGW/Makefile
+END

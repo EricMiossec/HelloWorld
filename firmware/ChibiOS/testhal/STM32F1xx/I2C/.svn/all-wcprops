@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/halconf.h
+END
+lis3.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/lis3.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/mcuconf.h
+END
+tmp75.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/tmp75.h
+END
+i2c_pns.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/i2c_pns.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/chconf.h
+END
+fake.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/fake.c
+END
+lis3.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/lis3.c
+END
+fake.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/fake.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/Makefile
+END
+tmp75.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/tmp75.c
+END
+i2c_pns.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/I2C/i2c_pns.c
+END

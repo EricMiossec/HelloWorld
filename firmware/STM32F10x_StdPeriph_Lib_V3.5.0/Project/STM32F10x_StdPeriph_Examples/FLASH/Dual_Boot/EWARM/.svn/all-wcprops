@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM
+END
+Project.ewp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM/Project.ewp
+END
+stm32f10x_flash_xl_bank1.icf
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM/stm32f10x_flash_xl_bank1.icf
+END
+Project.ewd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM/Project.ewd
+END
+stm32f10x_flash_xl_bank2.icf
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM/stm32f10x_flash_xl_bank2.icf
+END
+Project.eww
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/EWARM/Project.eww
+END

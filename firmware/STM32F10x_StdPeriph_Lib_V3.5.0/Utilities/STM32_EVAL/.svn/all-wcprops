@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL
+END
+stm32_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/stm32_eval.c
+END
+stm32_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/stm32_eval.h
+END
+Release_Notes.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Release_Notes.html
+END

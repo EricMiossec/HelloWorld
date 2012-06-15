@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARMCMx/LPC13xx/ld
+END
+LPC1343.ld
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARMCMx/LPC13xx/ld/LPC1343.ld
+END

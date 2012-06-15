@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x
+END
+hal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/hal_lld.c
+END
+serial_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/serial_lld.h
+END
+vic.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/vic.c
+END
+lpc214x.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/lpc214x.h
+END
+hal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/hal_lld.h
+END
+spi_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/spi_lld.c
+END
+vic.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/vic.h
+END
+pal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/pal_lld.c
+END
+platform.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/platform.mk
+END
+serial_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/serial_lld.c
+END
+spi_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/spi_lld.h
+END
+pal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/pal_lld.h
+END
+platform.dox
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/LPC214x/platform.dox
+END

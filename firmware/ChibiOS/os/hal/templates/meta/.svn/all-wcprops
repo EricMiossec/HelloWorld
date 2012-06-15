@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/templates/meta
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/templates/meta/driver.h
+END
+driver_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/templates/meta/driver_lld.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/templates/meta/driver.c
+END
+driver_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/templates/meta/driver_lld.h
+END

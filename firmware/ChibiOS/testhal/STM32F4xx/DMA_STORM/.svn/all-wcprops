@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM/mcuconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM/chconf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F4xx/DMA_STORM/Makefile
+END

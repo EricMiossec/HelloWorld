@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common
+END
+fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/fonts.h
+END
+stm32_eval_i2c_tsensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_i2c_tsensor.h
+END
+stm32_eval_spi_sd.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_spi_sd.c
+END
+stm32_eval_sdio_sd.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_sdio_sd.c
+END
+stm32_eval_i2c_ee.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_i2c_ee.c
+END
+stm32_eval_spi_sd.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_spi_sd.h
+END
+stm32_eval_spi_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_spi_flash.c
+END
+stm32_eval_sdio_sd.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_sdio_sd.h
+END
+fonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/fonts.c
+END
+stm32_eval_i2c_tsensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_i2c_tsensor.c
+END
+stm32_eval_i2c_ee.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_i2c_ee.h
+END
+stm32_eval_spi_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/Common/stm32_eval_spi_flash.h
+END

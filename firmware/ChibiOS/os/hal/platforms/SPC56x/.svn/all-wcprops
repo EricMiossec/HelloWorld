@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x
+END
+hal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/hal_lld.c
+END
+mpc563m.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/mpc563m.h
+END
+serial_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/serial_lld.h
+END
+hal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/hal_lld.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/typedefs.h
+END
+platform.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/platform.mk
+END
+serial_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/serial_lld.c
+END
+platform.dox
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/SPC56x/platform.dox
+END

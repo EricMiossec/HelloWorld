@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/AT91SAM7
+END
+vectors.s
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/AT91SAM7/vectors.s
+END
+armparams.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/AT91SAM7/armparams.h
+END
+port.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/AT91SAM7/port.mk
+END
+wfi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/AT91SAM7/wfi.h
+END

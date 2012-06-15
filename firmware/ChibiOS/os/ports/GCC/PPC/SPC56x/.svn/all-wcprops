@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/PPC/SPC56x
+END
+ivor.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/PPC/SPC56x/ivor.s
+END
+vectors.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/PPC/SPC56x/vectors.s
+END

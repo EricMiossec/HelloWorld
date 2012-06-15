@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/ST_STM8L_DISCOVERY
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/ST_STM8L_DISCOVERY/board.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/ST_STM8L_DISCOVERY/board.h
+END

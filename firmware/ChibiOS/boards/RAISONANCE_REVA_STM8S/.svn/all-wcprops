@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/RAISONANCE_REVA_STM8S
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/RAISONANCE_REVA_STM8S/board.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/RAISONANCE_REVA_STM8S/board.h
+END

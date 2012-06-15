@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/stm32f10x_conf.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/stm32f10x_it.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/main.c
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/stm32f10x_it.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/readme.txt
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/PWR/PVD/system_stm32f10x.c
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix
+END
+hal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/hal_lld.c
+END
+serial_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/serial_lld.h
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/console.c
+END
+hal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/hal_lld.h
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/console.h
+END
+pal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/pal_lld.c
+END
+platform.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/platform.mk
+END
+serial_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/serial_lld.c
+END
+pal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/Posix/pal_lld.h
+END

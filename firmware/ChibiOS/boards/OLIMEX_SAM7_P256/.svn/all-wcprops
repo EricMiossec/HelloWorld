@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_SAM7_P256
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_SAM7_P256/board.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_SAM7_P256/board.h
+END
+board.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_SAM7_P256/board.mk
+END

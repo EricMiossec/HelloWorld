@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S
+END
+hal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/hal_lld.c
+END
+serial_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/serial_lld.h
+END
+stm8s.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/stm8s.h
+END
+hal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/hal_lld.h
+END
+stm8s_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/stm8s_type.h
+END
+spi_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/spi_lld.c
+END
+pal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/pal_lld.c
+END
+serial_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/serial_lld.c
+END
+spi_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/spi_lld.h
+END
+pal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/pal_lld.h
+END
+platform.dox
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM8S/platform.dox
+END

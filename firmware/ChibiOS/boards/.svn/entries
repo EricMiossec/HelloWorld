@@ -1,0 +1,134 @@
+10
+
+dir
+61
+https://subversion.assembla.com/svn/nxt-laser-rangefinder/firmware/ChibiOS/boards
+https://subversion.assembla.com/svn/nxt-laser-rangefinder
+
+
+
+2012-03-15T03:24:06.588406Z
+29
+alexlesuper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3f1eb6bd-25df-4ecc-b72b-c5c131fab26c
+
+GENERIC_SPC563
+dir
+
+simulator
+dir
+
+OLIMEX_STM32_H103
+dir
+
+EA_LPCXPRESSO_BB_1114
+dir
+
+ST_STM32L_DISCOVERY
+dir
+
+EA_LPCXPRESSO_BB_1343
+dir
+
+OLIMEX_AVR_CAN
+dir
+
+OLIMEX_STM32_P103
+dir
+
+ST_STM3210C_EVAL
+dir
+
+OLIMEX_LPC_P2148
+dir
+
+OLIMEX_STM32_103STK
+dir
+
+OLIMEX_MSP430_P1611
+dir
+
+ST_STM3210E_EVAL
+dir
+
+OLIMEX_STM32_P107
+dir
+
+RAISONANCE_REVA_STM8S
+dir
+
+ST_STM3220G_EVAL
+dir
+
+OLIMEX_AVR_MT_128
+dir
+
+ST_STM32F4_DISCOVERY
+dir
+
+OLIMEX_SAM7_P256
+dir
+
+ST_STM8L_DISCOVERY
+dir
+
+ST_STM32VL_DISCOVERY
+dir
+
+NONSTANDARD_STM32F4_BARTHESS1
+dir
+
+ST_STM8S_DISCOVERY
+dir
+
+readme.txt
+file
+
+
+
+
+2012-03-15T17:31:26.000000Z
+7a8fd440469a372a06b890bf6579116d
+2012-03-15T03:24:06.588406Z
+29
+alexlesuper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+334
+
+OLIMEX_SAM7_EX256
+dir
+

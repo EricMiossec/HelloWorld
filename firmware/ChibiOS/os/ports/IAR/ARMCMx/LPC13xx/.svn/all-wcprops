@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/IAR/ARMCMx/LPC13xx
+END
+vectors.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/IAR/ARMCMx/LPC13xx/vectors.s
+END
+cmparams.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/IAR/ARMCMx/LPC13xx/cmparams.h
+END

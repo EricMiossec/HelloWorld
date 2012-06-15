@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/templates
+END
+chcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/templates/chcore.c
+END
+chtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/templates/chtypes.h
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/templates/chconf.h
+END
+chcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/templates/chcore.h
+END

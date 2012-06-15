@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/stm32f10x_conf.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/stm32f10x_it.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/main.c
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/stm32f10x_it.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/readme.txt
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/ADC_TIM1/system_stm32f10x.c
+END

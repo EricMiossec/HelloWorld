@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/mcuconf.h
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/lcd.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/chconf.h
+END
+lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/lcd.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/AVR-ATmega128-GCC/Makefile
+END

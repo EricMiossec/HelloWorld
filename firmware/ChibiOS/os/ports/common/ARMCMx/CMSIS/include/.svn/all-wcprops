@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include
+END
+core_cm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cm3.h
+END
+core_cm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cm4.h
+END
+arm_common_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/arm_common_tables.h
+END
+core_cmFunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cmFunc.h
+END
+core_cm0.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cm0.h
+END
+core_cm4_simd.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h
+END
+core_cmInstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/core_cmInstr.h
+END
+arm_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/common/ARMCMx/CMSIS/include/arm_math.h
+END

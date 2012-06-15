@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/mcuconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/chconf.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-STM32F103-FATFS/Makefile
+END

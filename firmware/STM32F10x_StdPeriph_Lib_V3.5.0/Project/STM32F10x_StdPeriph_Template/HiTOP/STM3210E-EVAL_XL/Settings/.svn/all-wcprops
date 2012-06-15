@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings
+END
+link.lnk
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/link.lnk
+END
+reset_go_main.scr
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/reset_go_main.scr
+END
+STM32F10x_XL.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/STM32F10x_XL.lsl
+END
+linkextsram.lnk
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/linkextsram.lnk
+END
+reset_appl.scr
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/reset_appl.scr
+END
+arm_arch.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/arm_arch.lsl
+END
+STM32F10x_xl_extsram.lsl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/STM32F10x_xl_extsram.lsl
+END
+StartupScript.scr
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/HiTOP/STM3210E-EVAL_XL/Settings/StartupScript.scr
+END

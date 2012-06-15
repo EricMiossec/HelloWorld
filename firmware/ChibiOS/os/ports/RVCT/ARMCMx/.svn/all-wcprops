@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx
+END
+chcore_v6m.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore_v6m.h
+END
+chcore_v7m.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore_v7m.h
+END
+chcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore.c
+END
+chtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chtypes.h
+END
+cstartup.s
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/cstartup.s
+END
+chcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore.h
+END
+chcore_v6m.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore_v6m.c
+END
+chcoreasm_v6m.s
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcoreasm_v6m.s
+END
+chcore_v7m.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcore_v7m.c
+END
+port.dox
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/port.dox
+END
+chcoreasm_v7m.s
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/RVCT/ARMCMx/chcoreasm_v7m.s
+END

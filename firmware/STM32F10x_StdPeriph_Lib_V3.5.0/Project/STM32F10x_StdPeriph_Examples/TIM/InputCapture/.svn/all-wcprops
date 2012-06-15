@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/stm32f10x_conf.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/stm32f10x_it.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/main.c
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/stm32f10x_it.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/readme.txt
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/TIM/InputCapture/system_stm32f10x.c
+END

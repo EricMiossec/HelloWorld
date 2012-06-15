@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web
+END
+cc-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web/cc-arch.h
+END
+uip-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web/uip-conf.h
+END
+webthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web/webthread.c
+END
+webthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web/webthread.h
+END
+clock-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARM7-AT91SAM7X-UIP-GCC/web/clock-arch.h
+END

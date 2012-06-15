@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx
+END
+stm32_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/stm32_dma.h
+END
+hal_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/hal_lld.c
+END
+adc_lld.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/adc_lld.c
+END
+hal_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/hal_lld.h
+END
+stm32_rcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/stm32_rcc.h
+END
+adc_lld.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/adc_lld.h
+END
+platform.mk
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/platform.mk
+END
+stm32_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/stm32_dma.c
+END
+hal_lld_f100.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/hal_lld_f100.h
+END
+hal_lld_f105_f107.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/hal_lld_f105_f107.h
+END
+platform.dox
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/platform.dox
+END
+stm32f10x.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/stm32f10x.h
+END
+hal_lld_f103.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/STM32F1xx/hal_lld_f103.h
+END

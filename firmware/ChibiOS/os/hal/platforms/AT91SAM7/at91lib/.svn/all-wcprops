@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib
+END
+AT91SAM7X128.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7X128.h
+END
+AT91SAM7X256.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7X256.h
+END
+aic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/aic.h
+END
+AT91SAM7S512.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S512.h
+END
+AT91SAM7S64.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S64.h
+END
+AT91SAM7S128.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S128.h
+END
+AT91SAM7S256.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7S256.h
+END
+AT91SAM7X512.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/AT91SAM7X512.h
+END
+aic.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/hal/platforms/AT91SAM7/at91lib/aic.c
+END

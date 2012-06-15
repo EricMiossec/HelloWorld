@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/LPC214x
+END
+vectors.s
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/LPC214x/vectors.s
+END
+armparams.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/LPC214x/armparams.h
+END
+port.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/LPC214x/port.mk
+END
+wfi.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARM/LPC214x/wfi.h
+END

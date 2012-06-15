@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-GENERIC-KERNEL
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-GENERIC-KERNEL/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-GENERIC-KERNEL/chconf.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-GENERIC-KERNEL/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM3-GENERIC-KERNEL/Makefile
+END

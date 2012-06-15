@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO/mcuconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO/chconf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/ARMCM0-LPC1114-LPCXPRESSO/Makefile
+END

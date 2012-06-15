@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARMCMx/STM32F2xx/ld
+END
+STM32F207xG.ld
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARMCMx/STM32F2xx/ld/STM32F207xG.ld
+END
+STM32F205xB.ld
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/ports/GCC/ARMCMx/STM32F2xx/ld/STM32F205xB.ld
+END

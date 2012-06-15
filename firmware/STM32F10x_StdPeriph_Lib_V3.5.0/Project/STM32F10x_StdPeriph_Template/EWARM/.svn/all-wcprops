@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM
+END
+Project.ewp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/Project.ewp
+END
+Project.ewd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/Project.ewd
+END
+stm32f10x_flash.icf
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/stm32f10x_flash.icf
+END
+stm32f10x_nor.icf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/stm32f10x_nor.icf
+END
+stm32f10x_ram.icf
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/stm32f10x_ram.icf
+END
+Project.eww
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/Project.eww
+END
+stm32f10x_flash_extsram.icf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/stm32f10x_flash_extsram.icf
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Template/EWARM/readme.txt
+END

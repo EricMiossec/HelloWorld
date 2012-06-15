@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC/mcuconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC/chconf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/testhal/STM32F1xx/USB_CDC/Makefile
+END

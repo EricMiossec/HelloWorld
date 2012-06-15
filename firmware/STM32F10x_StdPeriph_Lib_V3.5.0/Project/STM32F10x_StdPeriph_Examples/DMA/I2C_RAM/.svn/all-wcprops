@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/stm32f10x_conf.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/stm32f10x_it.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/main.c
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/stm32f10x_it.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/readme.txt
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/DMA/I2C_RAM/system_stm32f10x.c
+END

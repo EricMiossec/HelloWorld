@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl
+END
+platform_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/platform_config.h
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/stm32f10x_conf.h
+END
+stm32f10x_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/stm32f10x_it.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/main.c
+END
+stm32f10x_it.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/stm32f10x_it.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/readme.txt
+END
+system_stm32f10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HyperTerminal_HwFlowControl/system_stm32f10x.c
+END

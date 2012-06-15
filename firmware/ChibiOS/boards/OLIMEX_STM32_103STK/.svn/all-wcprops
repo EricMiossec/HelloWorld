@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_STM32_103STK
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_STM32_103STK/board.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_STM32_103STK/board.h
+END
+board.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/OLIMEX_STM32_103STK/board.mk
+END

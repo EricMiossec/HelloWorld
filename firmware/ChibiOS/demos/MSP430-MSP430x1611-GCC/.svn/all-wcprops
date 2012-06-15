@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC
+END
+halconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/halconf.h
+END
+mcuconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/mcuconf.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/main.c
+END
+chconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/chconf.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/demos/MSP430-MSP430x1611-GCC/Makefile
+END

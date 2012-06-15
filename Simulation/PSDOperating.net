@@ -1,0 +1,16 @@
+* C:\Users\Jas\Documents\School\ECSE 474\Repository\PSDOperating.asc
+XU1 0 N002 N001 0 LOV LT1001
+XU2 0 N003 N001 0 ROV LT1001
+I1 0 N002 1µ
+I2 0 N003 9µ
+R1 N002 LOV 10k
+R2 ROV N003 10k
+C1 N002 LOV 10µ
+C2 ROV N003 10µ
+V1 N001 0 5 Rser=10M
+RLoad2 LOV 0 10k
+RLoad1 ROV 0 10k
+.tran 0 60 20 1
+.lib LTC.lib
+.backanno
+.end

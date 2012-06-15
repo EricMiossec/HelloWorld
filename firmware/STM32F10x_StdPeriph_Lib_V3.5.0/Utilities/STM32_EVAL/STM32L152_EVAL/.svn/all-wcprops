@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL
+END
+stm32l152_eval_glass_lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_glass_lcd.c
+END
+stm32l152_eval_i2c_ee.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_i2c_ee.h
+END
+stm32l152_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval.c
+END
+stm32l152_eval_glass_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_glass_lcd.h
+END
+stm32l152_eval_lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_lcd.c
+END
+stm32l152_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval.h
+END
+stm32l152_eval_i2c_ee.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_i2c_ee.c
+END
+stm32l152_eval_lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Utilities/STM32_EVAL/STM32L152_EVAL/stm32l152_eval_lcd.h
+END

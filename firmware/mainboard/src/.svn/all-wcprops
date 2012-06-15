@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nxt-laser-rangefinder/!svn/ver/61/firmware/mainboard/src
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/nxt-laser-rangefinder/!svn/ver/61/firmware/mainboard/src/main.c
+END
+i2cslave.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nxt-laser-rangefinder/!svn/ver/61/firmware/mainboard/src/i2cslave.c
+END
+demomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/nxt-laser-rangefinder/!svn/ver/6/firmware/mainboard/src/demomain.c
+END
+calib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nxt-laser-rangefinder/!svn/ver/61/firmware/mainboard/src/calib.c
+END

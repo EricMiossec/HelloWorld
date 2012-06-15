@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src
+END
+chcond.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chcond.c
+END
+chsem.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chsem.c
+END
+chdynamic.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chdynamic.c
+END
+chmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chmsg.c
+END
+chdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chdebug.c
+END
+chmemcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chmemcore.c
+END
+chvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chvt.c
+END
+chthreads.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chthreads.c
+END
+chmempools.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chmempools.c
+END
+chmboxes.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chmboxes.c
+END
+chlists.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chlists.c
+END
+chevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chevents.c
+END
+chqueues.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chqueues.c
+END
+chregistry.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chregistry.c
+END
+chmtx.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chmtx.c
+END
+chheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chheap.c
+END
+chsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chsys.c
+END
+chschd.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/os/kernel/src/chschd.c
+END

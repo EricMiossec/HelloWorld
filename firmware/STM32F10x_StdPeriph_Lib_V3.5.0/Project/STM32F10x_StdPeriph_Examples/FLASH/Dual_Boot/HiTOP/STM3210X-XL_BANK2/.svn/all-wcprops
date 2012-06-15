@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/HiTOP/STM3210X-XL_BANK2
+END
+cstart_thumb2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/HiTOP/STM3210X-XL_BANK2/cstart_thumb2.asm
+END
+setstack.asm
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/HiTOP/STM3210X-XL_BANK2/setstack.asm
+END
+STM3210X-XL_BANK2.htp
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/nxt-laser-rangefinder/!svn/ver/45/firmware/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/FLASH/Dual_Boot/HiTOP/STM3210X-XL_BANK2/STM3210X-XL_BANK2.htp
+END

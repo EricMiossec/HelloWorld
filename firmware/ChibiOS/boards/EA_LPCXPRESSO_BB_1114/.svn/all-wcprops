@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/EA_LPCXPRESSO_BB_1114
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/EA_LPCXPRESSO_BB_1114/board.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/EA_LPCXPRESSO_BB_1114/board.h
+END
+board.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nxt-laser-rangefinder/!svn/ver/29/firmware/ChibiOS/boards/EA_LPCXPRESSO_BB_1114/board.mk
+END
